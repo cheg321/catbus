@@ -12,9 +12,3 @@
 Bit rate                    : 2 117 kb/s
 Sampling rate               : 44.1 kHz
 Bit depth                   : 24 bits
-
-# Источник данных
-Компиляции звуков с сайта www.youtube.com:
-1. https://www.youtube.com/watch?v=wrdAEmNvEj4&t=37s
-2. https://www.youtube.com/watch?v=UTIla4G9Pz4
-3. https://www.youtube.com/watch?v=DXUAyRRkI6k
